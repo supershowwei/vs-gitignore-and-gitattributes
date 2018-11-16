@@ -1,0 +1,1 @@
+# vs-gitignore-and-gitattributes
